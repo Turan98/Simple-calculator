@@ -1,0 +1,15 @@
+D:\CSharp\Console\TestConsoleProgram\bin\Debug\net6.0\TestConsoleProgram.exe
+D:\CSharp\Console\TestConsoleProgram\bin\Debug\net6.0\TestConsoleProgram.deps.json
+D:\CSharp\Console\TestConsoleProgram\bin\Debug\net6.0\TestConsoleProgram.runtimeconfig.json
+D:\CSharp\Console\TestConsoleProgram\bin\Debug\net6.0\TestConsoleProgram.dll
+D:\CSharp\Console\TestConsoleProgram\bin\Debug\net6.0\TestConsoleProgram.pdb
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\TestConsoleProgram.csproj.AssemblyReference.cache
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\TestConsoleProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\TestConsoleProgram.AssemblyInfoInputs.cache
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\TestConsoleProgram.AssemblyInfo.cs
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\TestConsoleProgram.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\TestConsoleProgram.dll
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\refint\TestConsoleProgram.dll
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\TestConsoleProgram.pdb
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\TestConsoleProgram.genruntimeconfig.cache
+D:\CSharp\Console\TestConsoleProgram\obj\Debug\net6.0\ref\TestConsoleProgram.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestConsoleProgram/1.0.0": {
+        "runtime": {
+          "TestConsoleProgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestConsoleProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
